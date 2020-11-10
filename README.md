@@ -5,6 +5,13 @@ commercial analysis using machine learning algorithm
 
 there are some missing parts : preprocessing, gridsearch
 
+Final Product
+-------------
+
+한이음 ICT멘토링 프로젝트 결과보고서.hwp 
+
+11페이지 이후 프로젝트 산출물
+
 Data
 -----
 
