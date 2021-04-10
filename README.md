@@ -28,6 +28,7 @@ Final Product
 
 Report  
 ------------
-한이음 ICT멘토링 프로젝트 결과보고서.hwp 
+한이음 ICT멘토링 프로젝트 결과보고서 **11페이지 이후 프로젝트 산출물**  
+https://github.com/Yiujin/machine-learning-commercial-analysis/blob/master/%ED%95%9C%EC%9D%B4%EC%9D%8C%20ICT%EB%A9%98%ED%86%A0%EB%A7%81%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C(pdf).pdf
 
-11페이지 이후 프로젝트 산출물
+
